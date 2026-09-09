@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Connector_TE_28pin")(type "KiCad")(uri "${KIPRJMOD}/Connector_TE_28pin.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Hirose_ZE05H")(type "KiCad")(uri "${KIPRJMOD}/Connector_Hirose_ZE05H.kicad_sym")(options "")(descr ""))
+  (lib (name "Kyocera_50pin_FFC_FPC_05pitch")(type "KiCad")(uri "${KIPRJMOD}/Kyocera_50pin_FFC_FPC_05pitch.kicad_sym")(options "")(descr ""))
+)
