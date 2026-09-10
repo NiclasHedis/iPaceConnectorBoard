@@ -11,8 +11,8 @@ The OEM pcb is using a press fit connector, so use a flat screwdriver to remove 
 ### Components:
 * R1, R2 - 0805 10kOhm.
 * J1 - OEM in housing
-* J2 - Kyocera 046810650020846+T - https://mou.sr/4iiVvzu
-* J3 - Hirose ZE05H-2P-2V - https://mou.sr/3UHuiN9
+* J2 - Hirose ZE05H-2P-2V - https://mou.sr/3UHuiN9
+* J3 - Kyocera 046810650020846+T - https://mou.sr/4iiVvzu
 
 ### Logbook:
 2026-09-10: First revision ordered by Damien from JLCPCB.
